@@ -28,14 +28,14 @@
 </p>
 
 ---
-https://github-readme-streak-stats.demolab.com
-
 
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyamdhudiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.demolab.com/?user=shyamdhudiya&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamdhudiya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
